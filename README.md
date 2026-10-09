@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou o Cauã 👋
 
-<!--
-**Cpetras07/Cpetras07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sou estudante da área de tecnologia e tenho interesse em desenvolvimento
+de software e na criação de soluções tecnológicas para problemas reais.
+
+Atualmente, estou desenvolvendo meus conhecimentos por meio de projetos
+acadêmicos e pessoais.
+
+## 🛠️ Tecnologias e ferramentas
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- react
+- angular
+- IA
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- Front End
+- IA
+- Desenvolvimento de API
+
+## 🚀 Projetos em destaque
+
+### 📦 SafePack
+Sistema desenvolvido para melhorar a logística de recebimento e
+gerenciamento de encomendas em prédios residenciais e comerciais.
+
+### 🚦 Semáforo Inteligente
+Projeto acadêmico voltado ao desenvolvimento de uma solução de
+semaforização inteligente para melhorar o fluxo do trânsito e
+priorizar veículos de emergência.
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/cau%C3%A3-petras-malosti-73a00a258/
+
 -->
